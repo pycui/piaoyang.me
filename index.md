@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Piaoyang Cui
+# Hi, I'm Piaoyang
 
 ![Profile Image](/assets/images/your-profile-image.jpg)
 
