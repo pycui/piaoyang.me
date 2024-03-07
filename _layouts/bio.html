@@ -1,0 +1,25 @@
+<!-- _layouts/bio.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <style>
+        /* Your CSS styles go here */
+    </style>
+</head>
+<body>
+
+<img src="{{ site.baseurl }}/path-to-your-profile-image.jpg" alt="{{ page.name }}" class="profile-image">
+<h1>{{ page.name }}</h1>
+<p class="tagline">{{ page.tagline }}</p>
+
+<ul class="social-links">
+    {% for link in page.social_links %}
+    <li><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
