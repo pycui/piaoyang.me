@@ -7,7 +7,7 @@ title: Home
 
 ![Profile Image](/assets/images/profile.jpeg)
 
-Welcome to my bio site. I'm a professional in software engineer and entrepreneur living in the Bay Area.
+Welcome to my bio site. I'm a seasoned software engineer and entrepreneur living in the Bay Area.
 
 ## About Me
 
