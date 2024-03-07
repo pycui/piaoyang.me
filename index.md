@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I'm Piaoyang
 
-![Profile Image](/assets/images/your-profile-image.jpg)
+![Profile Image](/assets/images/profile.jpeg)
 
 Welcome to my bio site. I'm a professional in software engineer and entrepreneur living in the Bay Area.
 
