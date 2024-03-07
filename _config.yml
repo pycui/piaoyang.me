@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g., /blog if your site is hosted at ex
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
-theme: minima # or any other theme you have selected through the theme chooser or manually
+theme: jekyll-theme-minimal # or any other theme you have selected through the theme chooser or manually
 plugins:
   - jekyll-feed
 
