@@ -1,8 +1,8 @@
 title: Your Name's Bio
 email: your-email@example.com
 description: "This is a brief bio or tagline about yourself."
-baseurl: "" # the subpath of your site, e.g., /blog if your site is hosted at example.com/blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "piaoyang.me" # the subpath of your site, e.g., /blog if your site is hosted at example.com/blog
+url: "https://pycui.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 theme: jekyll-theme-minimal # or any other theme you have selected through the theme chooser or manually
