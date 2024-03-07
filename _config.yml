@@ -1,11 +1,42 @@
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
+title: Your Name's Bio
+email: your-email@example.com
+description: "This is a brief bio or tagline about yourself."
+baseurl: "" # the subpath of your site, e.g., /blog if your site is hosted at example.com/blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima # or any other theme you have selected through the theme chooser or manually
+plugins:
+  - jekyll-feed
+
+# Optional settings
+twitter_username: yourusername
+github_username: yourusername
+linkedin_username: yourlinkedin
+
+# SEO tags (optional but recommended for better SEO)
+author: Your Name
+twitter:
+  username: yourusername
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Social links (customize these with your own usernames or remove any you don't want to include)
+social_links:
+  twitter: https://twitter.com/yourusername
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourlinkedin
+
+# Markdown settings (optional, for more advanced users)
+markdown: kramdown
 kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-theme: jekyll-theme-minimal
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..6
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
