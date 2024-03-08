@@ -3,6 +3,7 @@ email: piaoyangcui@gmail.com
 description: Software Engineer, Entrepreneur<br><br>👉 Read <a href="https://piaoyang0.wordpress.com">My blog</a>
 baseurl: "" # the subpath of your site, e.g., /blog if your site is hosted at example.com/blog
 url: "https://piaoyang.me/" # the base hostname & protocol for your site
+google_analytics: 'G-YVE89E7ZGS'
 
 # Build settings
 theme: jekyll-theme-minimal # or any other theme you have selected through the theme chooser or manually
