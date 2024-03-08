@@ -1,7 +1,9 @@
 title: Piaoyang Cui
 email: piaoyangcui@gmail.com
-description: Software Engineer, Entrepreneur
-Visit [My blog](https://piaoyang0.wordpress.com)
+description: >
+  Software Engineer, Entrepreneur
+
+  Visit [My blog](https://piaoyang0.wordpress.com)
 baseurl: "" # the subpath of your site, e.g., /blog if your site is hosted at example.com/blog
 url: "https://piaoyang.me/" # the base hostname & protocol for your site
 
